@@ -1,14 +1,10 @@
 # OBS
 
-[**WEB**](https://tomashubelbauer.github.io/obs)
-
 ## To-Do
 
 ### Try using an iPhone as a source
 
-https://obsproject.com/forum/resources/ios-camera-for-obs-studio.651/
-
-This is old and it may have new versions out.
+https://obs.camera + https://github.com/wtsnz/obs-ios-camera-source
 
 ### Try to make a plugin for masking out constant background
 
